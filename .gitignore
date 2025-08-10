@@ -1,0 +1,10 @@
+output/*
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pdb
+__pycache__/
+.vscode/
+notebooks/artifacts/*
+**/.DS_Store
