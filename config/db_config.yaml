@@ -1,0 +1,5 @@
+host: "localhost"
+database: "myproject"
+user: "admin"
+password: "admin"  # read from .env or secret
+port: 5432
